@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'com.template'
+group = 'com.tp2'
 version = '1.0.0'
 
 repositories {
