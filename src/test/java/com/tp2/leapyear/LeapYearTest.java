@@ -4,10 +4,11 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class LeapYearTest {
+
+    // TODO: Replace these lines with your tests
     @Test
     void exampleTest(){
-        // TODO: Replace these line with your tests
-        assertEquals(4, 2 + 2);
+        assertEquals(4, 2 + 1);
     }
 
 //    Missing tests:
